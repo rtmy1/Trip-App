@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndProject</string>
+    <string name="toLogin">login</string>
+    <string name="hello">hello</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="north_trail">har meiron</string>
+    <string name="searchHint">Search for a trail</string>
+    <string name="North">North</string>
+    <string name="Center">Center</string>
+    <string name="South">South</string>
+    <string name="LogOut">LogOut</string>
+    <string name="Yourlocation">Your Location :</string>
+    <string name="Favorite">Favorite</string>
+    <string name="GPS">Open in GPS</string>
+    <string name="Contact">Contact Us</string>
+    <string name="message">You can leave youe message here</string>
+    <string name="report">Report</string>
+    <string name="bugs">Bugs</string>
+    <string name="updateAdmin">Please Choose The Trail You Want To Update</string>
+    <string name="len">Trail Length is:</string>
+    <string name="newPass">Change your Password Here</string>
+    <string name="CurrentPass">The current password</string>
+    <string name="newPassword">New password</string>
+    <string name="ConfirmPass">Confirm New password</string>
+    <string name="UpdatePassword">Update Password</string>
+    <string name="Water">Water</string>
+    <string name="Jeep">Jeep</string>
+    <string name="Camping">Camping</string>
+    <string name="Bike">Bike</string>
+    <string name="Pet">Pet</string>
+    <string name="Update">Update</string>
+</resources>

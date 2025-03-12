@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#4CAF50</color> <!-- Green -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Darker Green -->
+    <color name="colorAccent">#2196F3</color> <!-- Blue -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White background -->
+    <color name="colorText">#000000</color> <!-- Black text -->
+    <color name="colorHint">#888888</color> <!-- Grey hint -->
+    <color name="colorButtonPrimary">#4CAF50</color> <!-- Green button -->
+    <color name="colorButtonSecondary">#2196F3</color> <!-- Blue button -->
+    <color name="primaryColor">#00BCD4</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="material_dynamic_neutral10">#F5F5F5</color>
+    <color name="material_dynamic_neutral50">#A0A0A0</color>
+
+</resources>

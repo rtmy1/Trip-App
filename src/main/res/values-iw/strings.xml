@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndProject</string>
+    <string name="toLogin">התחברות</string>
+    <string name="hello">שלום</string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמא</string>
+    <string name="register">הרשמה</string>
+    <string name="north_trail">הר מירון</string>
+    <string name="searchHint">חיפוש מסלול</string>
+    <string name="North">צפון</string>
+    <string name="Center">מרכז</string>
+    <string name="South">דרום</string>
+    <string name="LogOut">התנתקות</string>
+    <string name="Yourlocation">המיקום שלך :</string>
+    <string name="Favorite">מועדף</string>
+    <string name="GPS">פתיחת מפה</string>
+    <string name="Contact">צור קשר</string>
+    <string name="message">השאר הודעה פה</string>
+    <string name="report">דו\"ח</string>
+    <string name="bugs">פניות</string>
+    <string name="updateAdmin">בבקשה תבחר מסלול שברצונך לעדכן</string>
+    <string name="len">אורך המסלול הוא:</string>
+    <string name="newPass">שנה סיסמתך כאן</string>
+    <string name="CurrentPass">סיסמא נוכחית</string>
+    <string name="newPassword">סיסמא חדשה</string>
+    <string name="ConfirmPass">אימות סיסמא חדשה</string>
+    <string name="UpdatePassword">עדכן סיסמא</string>
+    <string name="Water">מים</string>
+    <string name="Jeep">ג\'יפ</string>
+    <string name="Camping">קאמפינג</string>
+    <string name="Bike">אופניים</string>
+    <string name="Pet">חיות מחמד</string>
+    <string name="Update">עדכון</string>
+</resources>
